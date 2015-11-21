@@ -6,6 +6,8 @@ keywords = ["Image", "The Goddamned", "Comics"]
 title = "The Goddamned 01 Review"
 
 +++
+{{% img src="/images/goddamned1/title.jpg" alt="the goddamned issue 1 cover" %}}
+
 The Goddamned is a brand new comic from writer Jason Aaron, artist r.m. Guera,
 with colors by Giulia Brusco, and published by Image Comics.
 
@@ -22,6 +24,8 @@ story arc's setting is in a desert.  The characters in the story are basically
 cavemen and because of this the artwork has a very crude and gritty feel.  I
 like it.
 
+{{% img src="/images/goddamned1/battle.jpg" alt="battle scene" caption="That's gotta hurt!!" %}}
+
 Cain is immortal.  It is a curse that was placed on him by God.  Now he wanders
 the world looking for ways to end his curse, i.e. die.  There is a lot of
 action that takes place in this first issue as Cain takes revenge on a group of
@@ -30,6 +34,8 @@ mentions [Nephilims](https://en.wikipedia.org/wiki/Nephilim).  For those that
 don't know, Nephilim are giants who are offsprings of Angels and humans.  These
 are probably future enemies of Cain.  In the very last page of the comic we are
 introduced to the first major villain, [Noah](https://en.wikipedia.org/wiki/Noah).
+
+{{% img src="/images/goddamned1/noah.jpg" alt="Noah" caption="Noah, before the ark" %}}
 
 Wow.  What a way to kick things off.  Cain as the protagonist, while Noah as an
 antagonist and a lumberjack to boot!  Talk about role reversal.  I can't wait

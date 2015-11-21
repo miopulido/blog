@@ -36,7 +36,7 @@ paginate = 3
 
     # Metadata used to drive integrations.
     googleAuthorship = "https://plus.google.com/+EmilioPulido"
-    # googleAnalytics = "Your Google Analytics tracking code"
+    googleAnalytics = "UA-70453333-1"
     # gravatarHash = "MD5 hash of your Gravatar email address"
 
     # Sidebar social links, these must be full URLs.
@@ -47,7 +47,7 @@ paginate = 3
     googleplus = "https://plus.google.com/+EmilioPulido"
     # facebook = "https://www.facebook.com/miopulido"
     twitter = "https://twitter.com/MioPulido"
-    youtube = "https://www.youtube.com/channel/UCspsR1XmL1dl2kyoEjCUlOQ"
+    # youtube = "https://www.youtube.com/channel/UCspsR1XmL1dl2kyoEjCUlOQ"
 
     # Other social-like sidebar links
     rss = false  # switch to true to enable RSS icon link

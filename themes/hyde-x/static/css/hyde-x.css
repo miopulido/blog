@@ -30,6 +30,10 @@
   }
 }
 
+figcaption {
+    font-size: .7em;
+}
+
 /* From bootstrap.css 3.3.2 - start */
 .label {
   display: inline;
