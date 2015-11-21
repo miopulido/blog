@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-disqusShortname = "emiliomaximo" # Optional, enable Disqus integration
+disqusShortname = "miopulido" # Optional, enable Disqus integration
 title = "Finance. Code. Comics"
 MetaDataFormat = "toml"
 theme = "hyde-x"
